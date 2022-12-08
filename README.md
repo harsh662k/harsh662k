@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Harsh Yadav
-- 👀 I’m interested in Data Around You
 - 🌱 I’m currently learning Data Science
 - 📫 Reach me at harshyadav662k@gmail.com
 
